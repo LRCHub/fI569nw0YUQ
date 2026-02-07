@@ -1,0 +1,248 @@
+{
+  "version": 1,
+  "base_track": "Got To Be Real (Official Audio)",
+  "base_artist": "Cheryl Lynn",
+  "createdAt": "2026-02-07T12:35:14.700444Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Got to be Real",
+      "artist": "Cheryl Lynn",
+      "has_synced": true,
+      "path": "select/01_Got_to_be_Real_Cheryl_Lynn.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Got To Be Real",
+      "artist": "倖田來未",
+      "has_synced": true,
+      "path": "select/02_Got_To_Be_Real_倖田來未.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Got To Be Real",
+      "artist": "Cher",
+      "has_synced": true,
+      "path": "select/03_Got_To_Be_Real_Cher.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Got To Be Real",
+      "artist": "Cheryl Lynn",
+      "has_synced": false,
+      "path": "select/04_Got_To_Be_Real_Cheryl_Lynn.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Got To Be Real",
+      "artist": "Energy (37)",
+      "has_synced": true,
+      "path": "select/05_Got_To_Be_Real_Energy_(37).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Got to Be Real",
+      "artist": "Lynn, Cheryl",
+      "has_synced": true,
+      "path": "select/06_Got_to_Be_Real_Lynn,_Cheryl.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Got To Be Real",
+      "artist": "Kumi Koda",
+      "has_synced": true,
+      "path": "select/07_Got_To_Be_Real_Kumi_Koda.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Got To Be Real",
+      "artist": "Jordan Hill",
+      "has_synced": false,
+      "path": "select/08_Got_To_Be_Real_Jordan_Hill.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Got To Be Real",
+      "artist": "Hill, Jordan",
+      "has_synced": false,
+      "path": "select/09_Got_To_Be_Real_Hill,_Jordan.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Got To Be Real",
+      "artist": "Cheryl Lynn",
+      "has_synced": true,
+      "path": "select/10_Got_To_Be_Real_Cheryl_Lynn.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Got To Be Real",
+      "artist": "Cheryl Lynn",
+      "has_synced": true,
+      "path": "select/11_Got_To_Be_Real_Cheryl_Lynn.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Got to be real",
+      "artist": "Young Divas",
+      "has_synced": false,
+      "path": "select/12_Got_to_be_real_Young_Divas.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "She's Got To Be A Saint",
+      "artist": "Ray Price",
+      "has_synced": true,
+      "path": "select/13_She's_Got_To_Be_A_Saint_Ray_Price.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "She's Got to Be a Saint (Album Version)",
+      "artist": "Ray Price",
+      "has_synced": true,
+      "path": "select/14_She's_Got_to_Be_a_Saint_(Album_Version)_Ray_Price.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Got to Be There (Single Version)",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/15_Got_to_Be_There_(Single_Version)_Michael_Jackson.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Got To Be Love",
+      "artist": "Jermaine Stewart",
+      "has_synced": false,
+      "path": "select/16_Got_To_Be_Love_Jermaine_Stewart.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Just Got to Be",
+      "artist": "The Black Keys",
+      "has_synced": true,
+      "path": "select/17_Just_Got_to_Be_The_Black_Keys.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Got To Be There - Single Version",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/18_Got_To_Be_There_-_Single_Version_Michael_Jackson.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Got To Be There - Stripped Mix",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/19_Got_To_Be_There_-_Stripped_Mix_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Got to Be the One",
+      "artist": "Lee Aaron",
+      "has_synced": false,
+      "path": "select/20_Got_to_Be_the_One_Lee_Aaron.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "I've Got To Be Free",
+      "artist": "Scorpions",
+      "has_synced": true,
+      "path": "select/21_I've_Got_To_Be_Free_Scorpions.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Why Does Love Got To Be So Sad?",
+      "artist": "Derek & The Dominos",
+      "has_synced": false,
+      "path": "select/22_Why_Does_Love_Got_To_Be_So_Sad_Derek_&_The_Dominos.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Why Does Love Got To Be So Sad?",
+      "artist": "Derek And The Dominos",
+      "has_synced": true,
+      "path": "select/23_Why_Does_Love_Got_To_Be_So_Sad_Derek_And_The_Dominos.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Got to Be for Real",
+      "artist": "Pressure Drop",
+      "has_synced": false,
+      "path": "select/24_Got_to_Be_for_Real_Pressure_Drop.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Got to Be Certain",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/25_Got_to_Be_Certain_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Got to Be Free",
+      "artist": "The Kinks",
+      "has_synced": false,
+      "path": "select/26_Got_to_Be_Free_The_Kinks.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Got To Be Certain",
+      "artist": "Kylie Minogue",
+      "has_synced": false,
+      "path": "select/27_Got_To_Be_Certain_Kylie_Minogue.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Got To Be Certain (Extended)",
+      "artist": "Kylie Minogue",
+      "has_synced": false,
+      "path": "select/28_Got_To_Be_Certain_(Extended)_Kylie_Minogue.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Got To Be Certain (Extended Mix)",
+      "artist": "Kylie Minogue",
+      "has_synced": false,
+      "path": "select/29_Got_To_Be_Certain_(Extended_Mix)_Kylie_Minogue.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Got to Be Real",
+      "artist": "Cheryl Lynn",
+      "has_synced": false,
+      "path": "select/pl_01_Got_to_Be_Real_Cheryl_Lynn.txt"
+    }
+  ]
+}
